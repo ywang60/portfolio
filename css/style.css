@@ -64,12 +64,12 @@ header img{
 	-webkit-text-decoration-style: wavy;
         text-decoration-style: wavy;
 	background-color: #000080;
-	color: #ffffff;
+	color: #fff1af;
 }
 
 .nav_item .chosen {
 	background-color: #fff1af;
-	color: #ffffff;
+	color: #000080;
 }
 
 .nav_item:active {
