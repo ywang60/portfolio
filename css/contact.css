@@ -110,11 +110,8 @@ top: 0;
 fieldset{
     border: none;
   }
-  form{
-    grid-column: 2;
-  }
   
-  input:focus{
+input:focus{
     border: 2px solid #598a30;
   }
   
